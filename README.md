@@ -1,6 +1,6 @@
 # Modern Animated Login Form
 
-![Login Form Preview](preview.png)
+![Login Form Preview](Form_Preview.png)
 
 A clean, animated login form featuring diagonal color blocks that animate on hover, built with semantic HTML5 and modern CSS3.
 
@@ -14,7 +14,7 @@ A clean, animated login form featuring diagonal color blocks that animate on hov
 - ✔️ Accessible form elements
 
 ## Live Demo
-[View Live Demo](https://YOUR-USERNAME.github.io/login-form/)
+[View Live Demo](https://EdmondGoddy.github.io/AI_Dev_LoginForm_1/)
 
 ## Development Prompt History
 
